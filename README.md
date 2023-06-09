@@ -1,6 +1,6 @@
 # Projeto Redes Sociais
 
-**Alunos: Eduardo, Felipe e Paulo**
+**Alunos: Eduardo Araujo, Felipe Schiavinato e Paulo Henrique**
 
 ## Sobre
 
