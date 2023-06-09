@@ -22,7 +22,12 @@ A hierarquia deste repositório esta dividida da seguinte maneira:
 
 ***recortes.ipynb***: Análise do modelo para diferentes recortes.
 
+***apresentacao.pdf***: Slides usados para
+
 ### Dados
 
 Os dados são referentes aos jogos da plataforma de vendas online Steam, eles foram retirados do site Hugging Face, o criador do dataset utilizou a API da Steam para conseguir [estes dados](https://huggingface.co/datasets/FronkonGames/steam-games-dataset).
 
+### Desenvolvimento e Resultados
+
+O desenvolvimento e resultados do projeto foi explicado [neste vídeo](https://www.youtube.com/watch?v=EDxJmPee4MM).
