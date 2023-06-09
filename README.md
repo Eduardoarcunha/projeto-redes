@@ -18,11 +18,11 @@ A hipótese do projeto é a seguinte:
 
 A hierarquia deste repositório esta dividida da seguinte maneira:
 
-***notebook.ipynb***: Preparação dos dados para criação de um modelo de regressão linear, além da criação do próprio modelo.
+***analise.ipynb***: Preparação dos dados para criação de um modelo de regressão linear, além da criação do próprio modelo.
 
 ***recortes.ipynb***: Análise do modelo para diferentes recortes.
 
-***apresentacao.pdf***: Slides usados para
+***apresentacao.pdf***: Slides usados para apresentação do projeto.
 
 ### Dados
 
